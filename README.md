@@ -2,4 +2,4 @@
 - 👀 I’m interested in .../RLUA and TypeScript (RLua = RobloxLua)
 - 🌱 I’m currently learning .../RLua
 - 💞️ I’m looking to collaborate on .../some game on roblox
-- 📫 How to reach me /joshh#3013 on discord
+- 📫 How to reach me /unnamed#4455 on discord
