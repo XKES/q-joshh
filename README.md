@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @q-joshh
-- 👀 I’m interested in .../RLUA and TypeScript (RLua = RobloxLua)
-- 🌱 I’m currently learning .../RLua
-- 💞️ I’m looking to collaborate on .../some game on roblox
-- 📫 How to reach me /unnamed#4455 on discord
+- 👋 Hi, I’m joshh
